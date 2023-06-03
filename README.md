@@ -54,3 +54,4 @@ Rename the remote image url's with local images (if available), this method is i
 | --slug        | Every lesson has a slug that identifies it, you can pass `all` if you want to update all at once |
 | --statusTo    | change the status of one or all the lessons to a particular one |
 | --statusFrom  | only apply changes to lessons with specified status |
+
